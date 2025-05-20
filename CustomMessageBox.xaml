@@ -1,0 +1,27 @@
+<Window x:Class="TCPChat_Assync.CustomMessageBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Aviso"
+        Height="180" Width="400"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="#CC1E1E1E"
+        
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen">
+    
+    <Border  Background="#CC1E1E1E"  BorderThickness="1">
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="ATENÇÃO" FontWeight="Bold" FontSize="16" Foreground="White"/>
+            <TextBlock x:Name="txtMensagem" Grid.Row="1" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="LightGray"/>
+            <Button Grid.Row="2" Content="OK" Width="80" Height="30" HorizontalAlignment="Right"
+                    Background="#444" Foreground="White" BorderThickness="0" Click="Button_Click"/>
+        </Grid>
+    </Border>
+</Window>
