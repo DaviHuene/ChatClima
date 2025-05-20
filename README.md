@@ -103,14 +103,3 @@ ChatClima/
 
 ---
 
-## 👨‍💻 Desenvolvedor
-
-**Davi Huene**
-Estudante de Ciência da Computação - FIAP
-Contato: \[Seu email ou LinkedIn, se quiser colocar]
-
----
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT.
