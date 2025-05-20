@@ -74,25 +74,6 @@ ChatClima/
 
 ---
 
-## 🚀 Como Executar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/DaviHuene/ChatClima.git
-   cd ChatClima
-   ```
-
-2. Abra a solução no Visual Studio.
-
-3. Execute o projeto `Server` primeiro (inicia o servidor).
-
-4. Execute o projeto `Client` e entre com seu apelido ou cadastre um novo.
-
-5. Clique no botão `+` para abrir os países e acessar os dados climáticos.
-
----
-
 ## ✅ Funcionalidades
 
 * [x] Cadastro e login de usuários
