@@ -28,6 +28,7 @@ Interface principal do usuário com design inspirado no WhatsApp:
 * Botão "+" para escolher países
 
 ### 🌐 Tela de Clima
+
 ![Clima 19_05_2025 21_09_54](https://github.com/user-attachments/assets/8a908e10-901e-49e6-9637-415976cb6c66)
 
 Mostra o clima atual de capitais selecionadas:
