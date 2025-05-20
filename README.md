@@ -28,7 +28,7 @@ Interface principal do usuário com design inspirado no WhatsApp:
 * Lista de mensagens
 * Lista de usuários conectados
 * Campo de digitação
-* Botão "+" para escolher países
+* Botão "Clima" para ver climas brasileiros
 
 ### 🌐 Tela de Clima
 
