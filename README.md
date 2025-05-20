@@ -13,10 +13,12 @@ Permite que o usuário acesse o sistema com seu apelido.
 
 ### 📝 Tela de Cadastro
 ![Cadastro Screen 19_05_2025 21_09_12](https://github.com/user-attachments/assets/1750e28b-cd10-4e57-9c89-95c215189b78)
+
 Permite que o usuário adicione no banco de dados um acesso.
 
 ### 📝 Tela de apelido
 ![Digite seu apelido_ 19_05_2025 21_10_34](https://github.com/user-attachments/assets/b51c972e-0776-474a-a0d3-4d0be8047dec)
+
 Permite registrar um novo apelido para utilizar no chat.
 ### 💬 Tela do Cliente
 ![ClientScreen 19_05_2025 21_09_43](https://github.com/user-attachments/assets/75b713fb-1395-41e3-afcb-c3f920624e34)
