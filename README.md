@@ -52,7 +52,7 @@ Permite ao administrador iniciar o servidor e acompanhar os usuários conectados
 
 * C# com WPF (.NET)
 * TCP/IP (Sockets)
-* MongoDB (armazenamento dos países e dados climáticos)
+* MongoDB (armazenamento dos países, dados climáticos e usuarios)
 * Estilo visual inspirado no WhatsApp
 * Integração com API de clima (ex: OpenWeather ou similar)
 * Git/GitHub para controle de versão
